@@ -5,7 +5,7 @@
 Para rodar esse projeto na sua máquina, por favor digite:
 
 ```
-npm install
+node app.js
 ```
 
 [Leia mais sobre markdown aqui](alura.com.br/artigos/como-trabalhar-com-markdown)
