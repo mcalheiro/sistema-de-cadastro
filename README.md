@@ -10,3 +10,4 @@ node app.js
 
 [Leia mais sobre markdown aqui](alura.com.br/artigos/como-trabalhar-com-markdown)
 
+:)
