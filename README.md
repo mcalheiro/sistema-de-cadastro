@@ -11,3 +11,5 @@ node app.js
 [Leia mais sobre markdown aqui](alura.com.br/artigos/como-trabalhar-com-markdown)
 
 :)
+
+[Comandos praticados até aqui](https://guilhermeonrails.github.io/manual-do-git-e-github/)
